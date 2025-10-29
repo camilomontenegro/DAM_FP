@@ -1,0 +1,6 @@
+Redes
+
+Se pueden dividir logicamente en subredes
+Direcciones IP
+
+ver la creación de VPC en AWS academy

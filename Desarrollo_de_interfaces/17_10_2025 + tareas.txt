@@ -1,0 +1,13 @@
+Implementar un programa para  gestión de una clase sin suponer ningún número de alumnos máximo. Para ello se utilizará una lista.
+
+Para cada alumno se almacenará la siguiente información: Nombre, Apellidos, DNI, Nota en número, y Nota en letra.  Crea la clase Alumno.
+Implementa la clase Curso cuyo atributo es una lista de tipo Alumno.
+
+El programa permitirá las siguientes operaciones, en un menú de opciones:
+
+•    Añadir nuevo alumno.
+•    Borrar alumno ya existente (dando su posición en la lista y/o su nombre, como se prefiera).
+•    Cambiar algún dato de algún alumno: Modificar sus notas...
+•    Mostrar todos los datos de todos los alumnos (uno a uno, por ejemplo).
+•    Cambiar la nota en letra de cada alumno según su nota numérica: No presentado (<0), Suspenso (<5), Aprobado (<7), Notable (<9), Sobresaliente (<10) y Matrícula de Honor (10).
+•    Mostrar el total de alumnos de cada nota (Suspenso, Aprobado...) y el porcentaje que suponen respecto al total de alumnos en la lista y respecto al total de alumnos presentados (excluyendo los No Presentados).

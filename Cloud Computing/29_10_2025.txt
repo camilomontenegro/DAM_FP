@@ -1,0 +1,2 @@
+La tabla de enrutamiento, en resumen ayuda a que la red sepa dónde está cada nodo.
+

@@ -1,0 +1,16 @@
+ El volumen de la unidad C es OS
+ El n£mero de serie del volumen es: 58C7-889B
+
+ Directorio de C:\Users\camil\Escritorio\DAM-FP\2do\Shared\DAMFP\Program_servicios_procesos\Coding\Procesos_Linux\Procesos
+
+28/10/2025  17:48    <DIR>          .
+28/10/2025  17:21    <DIR>          ..
+28/10/2025  17:21               352 .gitignore
+28/10/2025  17:47    <DIR>          .idea
+28/10/2025  17:48                 0 Errores.txt
+28/10/2025  17:41    <DIR>          out
+28/10/2025  17:21               433 Procesos.iml
+28/10/2025  17:48                 0 resultado.txt
+28/10/2025  17:44    <DIR>          src
+               4 archivos            785 bytes
+               5 dirs  124.595.077.120 bytes libres

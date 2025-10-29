@@ -1,0 +1,3 @@
+Procesos en Linux, comandos importantes
+
+init o systemd es el primer proceso de Linux

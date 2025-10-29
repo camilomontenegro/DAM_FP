@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d41a7fd4-ea74-4622-a1c5-72973d16c43b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../csv_app/MyFirstCsv/src/main/java/csv/CsvTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/ooo/ConsoleLog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Programacion_multimedia_disp_moviles/Code/WeatherApp/app/src/main/java/com/example/weatherapp/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Programacion_multimedia_disp_moviles/Code/WeatherApp/app/src/main/res/values/prueba.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../csv_app/MyFirstCsv/src/main/java/app/AppReadCsv.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../csv_app/MyFirstCsv/src/main/java/app/AppReadCsv.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/ooo/Listener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/ooo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/ooo/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/ooo/Screen.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/src/main/java/org/example/ooo/Screen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/target/classes/org/example/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/target/classes/org/example/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/target/classes/org/example/ooo/Listener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/target/classes/org/example/ooo/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/target/classes/org/example/ooo/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/target/classes/org/example/ooo/Screen.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Desarrollo_de_interfaces/Intellij_projects/untitled/target/classes/org/example/ooo/Screen.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Program_servicios_procesos/Clase 07_10_2025.rtf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programacion_multimedia_disp_moviles/Code/WeatherApp/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programacion_multimedia_disp_moviles/Code/WeatherApp/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Programacion_multimedia_disp_moviles/Code/WeatherApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Programacion_multimedia_disp_moviles/Code/WeatherApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="346ZdPNmnPdcnzKDpE7hQvQXR6k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.App.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/camil/Escritorio/DAM-FP/2do/Shared/DAMFP/Acceso_datos/Coding/Bonana_project/fruteria&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d41a7fd4-ea74-4622-a1c5-72973d16c43b" name="Changes" comment="" />
+      <created>1760536070429</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1760536070429</updated>
+    </task>
+    <servers />
+  </component>
+</project>

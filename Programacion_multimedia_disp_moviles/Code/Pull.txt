@@ -1,0 +1,28 @@
+Great question! Since you want to be able to pull future updates from the original repository while still committing to your own, here's the setup:
+One-Time Setup: Add the Original Repo as "Upstream"
+powershellgit remote add upstream https://github.com/meleiro/BetterTimeToSeeYou.git
+Verify your remotes:
+powershellgit remote -v
+You should see:
+
+origin → your repository (camilomontenegro/DAMFP)
+upstream → the original repository (meleiro/BetterTimeToSeeYou)
+
+How to Pull Future Updates
+Whenever you want to get the latest changes from the original repository:
+1. Make sure your local changes are committed:
+powershellgit status
+If you have uncommitted changes, commit them first or stash them.
+2. Fetch updates from upstream:
+powershellgit fetch upstream
+3. Merge the updates into your branch:
+powershellgit merge upstream/master
+4. Resolve any conflicts (if there are any) - Android Studio has a great merge tool
+5. Push the updates to YOUR repository:
+powershellgit push origin main
+Your Workflow Going Forward
+
+Your daily work: git add, git commit, git push origin main (goes to YOUR repo)
+Getting updates: Run the 5 steps above to pull from upstream and push to your repo
+
+This way you can keep syncing with the original project while maintaining your own version!
