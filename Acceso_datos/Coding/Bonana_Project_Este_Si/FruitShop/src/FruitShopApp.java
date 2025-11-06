@@ -58,7 +58,15 @@ public class FruitShopApp {
         }
     }
 
-    private static String addFruit() {
-        return "";
+    private static void addFruit() {
+        System.out.println("\n=== AÑADIR FRUTA ===");
+
+        System.out.println("Nombre: ");
+        String name = sc.nextLine().trim();
+
+        if (name.length() < 2) {
+            System.out.println("🚫El nombre debe tener al menos 2 caracteres🚫");
+        }
+
     }
 }
