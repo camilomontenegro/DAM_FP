@@ -1,5 +1,6 @@
 package app;
 
+import csv.CsvPrinter;
 import csv.CsvTable;
 import csv.CsvUtils;
 
@@ -63,7 +64,7 @@ public class AppLeerCsv {
 
         //Mostrar el contenido en una tabla
 
-
+        CsvPrinter.print(table);
 
 
 

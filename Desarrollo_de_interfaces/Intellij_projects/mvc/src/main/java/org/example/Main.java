@@ -10,7 +10,7 @@ import java.sql.SQLException;
 public class Main {
     public static void main(String[] args) {
         HouseDAO houseDAO = new HouseDAO();
-        houseDAO.create(gryffindor);
+        //houseDAO.create(gryffindor);
 
         House gryffindor = new House("Gryffindor", "Godric Gryffindor");
         House slytherin = new House("Slytherin", "Salazar Slytherin");
