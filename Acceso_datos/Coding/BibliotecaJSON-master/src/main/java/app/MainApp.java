@@ -29,6 +29,17 @@ public class MainApp {
                 System.out.println("Exportado con éxito a: " + json.getAbsolutePath());
             }
 
+            Biblioteca importada = JsonIO.read(json, Biblioteca.class);
+
+            System.out.println("Biblioteca importada: ");
+            System.out.println("Nombre " + importada.getNombre());
+
+            System.out.println("Usuarios: ");
+
+            importada.getUsuarios().forEach(u -> System.out.println(" - " + u));
+
+
+
         } catch (Exception e) {
             System.err.println("Error ejecutando la app" + e.getMessage());
         }

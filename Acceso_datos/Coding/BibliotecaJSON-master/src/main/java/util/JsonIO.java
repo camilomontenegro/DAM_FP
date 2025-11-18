@@ -16,11 +16,7 @@ public class JsonIO {
         MAPPER.writeValue(file, data);
     }
 
-    public static <T> T read (File file, Class<T> type) {
-        try {
-            return MAPPER.readValue(file, type);
-        } catch (IOException e) {
-            throw new RuntimeException(e);
-        }
+    public static <T> T read (File file, Class<T> type) throws IOException {
+        return MAPPER.readValue(file, type);
     }
 }
