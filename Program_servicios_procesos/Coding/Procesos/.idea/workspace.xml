@@ -4,67 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0344591-5d7d-4035-9899-5ea389ee6cf5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/DataBase/DBConnection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/Models/House.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/Models/HouseDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/Models/Wand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/Models/WandDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/Models/Wizard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../../Desarrollo_de_interfaces/Intellij_projects/mvc/src/main/java/org/example/db.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/AndroidProjectSystem.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/deploymentTargetSelector.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/migrations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/androidTest/java/com/example/bettertimetoseeyou/ExampleInstrumentedTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/example/bettertimetoseeyou/MainActivity.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/java/com/example/bettertimetoseeyou/model/HourWeather.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_lluvia.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_nublado.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/drawable/ic_sol.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/layout/item_hour.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/xml/backup_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/main/res/xml/data_extraction_rules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../app/src/test/java/com/example/bettertimetoseeyou/ExampleUnitTest.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../build.gradle.kts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../gradle.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../gradle/libs.versions.toml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../../settings.gradle.kts" beforeDir="false" />
-    </list>
+    <list default="true" id="d0344591-5d7d-4035-9899-5ea389ee6cf5" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -88,19 +28,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Main.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/camil/Escritorio/DAM-FP/2do/Shared/DAMFP/Program_servicios_procesos/Coding/Procesos",
-    "settings.editor.selected.configurable": "preferences.general"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/camil/Escritorio/DAM-FP/2do/Shared/DAMFP/Program_servicios_procesos/Coding/Procesos&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
   }
-}]]></component>
+}</component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="d0344591-5d7d-4035-9899-5ea389ee6cf5" name="Changes" comment="" />
