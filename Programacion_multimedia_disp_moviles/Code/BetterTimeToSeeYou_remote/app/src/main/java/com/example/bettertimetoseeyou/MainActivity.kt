@@ -5,6 +5,7 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
 import android.widget.TextView
+import android.content.Intent
 
 /**
  * MainActivity:
@@ -120,6 +121,12 @@ class MainActivity : AppCompatActivity() {
      * - Punto de entrada de la Activity (después de instanciarla).
      * - Aquí inflamos el layout, pedimos referencias a las vistas y conectamos listeners.
      */
+    companion object {
+        const val TEXTO1 = "TEXTO1" //Clave fija para enviar texto al Intent
+        const val NUMERO1 = 12 //COnstante numérica fija (valor entero)
+    }
+
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
 
@@ -131,9 +138,22 @@ class MainActivity : AppCompatActivity() {
         val etEntrada   = findViewById<EditText>(R.id.etEntrada)
         val btnProcesar = findViewById<Button>(R.id.btnProcesar)
         val tvResultado = findViewById<TextView>(R.id.tvResultado)
+        val btnIrSegunda = findViewById<Button>(R.id.btnIrSegunda)
 
         // Texto inicial (ayuda contextual para el alumno/usuario)
         tvTitulo.text = "KOTLIN DEMO"
+
+        btnIrSegunda.setOnClickListener {
+            val textoEntrada = etEntrada.text.toString().trim()
+            val numero = textoEntrada.toIntOrNull() //Null si no se puede convertir
+
+            //Creamos el intent explícito hacia Secondactivity
+            val intent = Intent(this, SecondActivity::class.java).apply {
+                putExtra(TEXTO1, textoEntrada) //Enviamos siempre el texto
+                putExtra("NUMERO1", NUMERO1) //Enviamos el número fijo 12
+            }
+            startActivity(intent)
+        }
 
         // Listener de clic del botón (lambda): se ejecuta cuando el usuario pulsa.
         btnProcesar.setOnClickListener {
@@ -178,5 +198,9 @@ class MainActivity : AppCompatActivity() {
             tvResultado.text = salida
 
         }
+
+        //Botón: Ir a la segunda activity
+        //Envía el texto introducido + la constante NUMERO1
+
     }
 }

@@ -1,0 +1,16 @@
+1;Manzana Fuji;2.95;120
+2;Plátano de Canarias;3.3;80
+3;Pera Conferencia;2.1;60
+4;Naranja Valencia;1.85;150
+5;Uvas Rojas;3.5;45
+6;Sandía;0.95;200
+7;Fresas;4.2;30
+8;Mango;2.75;55
+9;Piña;1.6;40
+10;Kiwi;3.1;70
+11;Melón;1.25;90
+12;Melocotón;2.4;65
+13;Cerezas;5.5;25
+14;Limón;1.1;110
+15;Mandarina;2.2;85
+16;Guanábana;5.6;15

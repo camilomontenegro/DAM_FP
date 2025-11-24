@@ -1,0 +1,133 @@
+(Usé este archivo como guía para desarrollar el programa)
+
+// Imports needed for: file operations, UTF-8, ArrayList, Scanner
+
+
+/**
+ * FRUIT SHOP APP - Main Program
+ * 
+ * Manages fruit inventory with add, list, export, and import features
+ */
+public class FruitShopApp {
+    
+    // ========== GLOBAL VARIABLES ==========
+    
+    // Storage for all fruits in memory
+    
+    // Tool for reading user input
+    
+    // Path to the data file
+    
+    // Counter for unique IDs
+    
+    
+    // ========== MAIN METHOD ==========
+    
+        // Welcome message
+        
+        // Make sure data folder exists
+        
+        // Loop until user chooses to exit
+            // Display options
+            // Get user's choice
+            // Execute the appropriate action based on choice
+            // Add some spacing
+        
+        // Clean up resources
+    
+    
+    // ========== MENU DISPLAY ==========
+    
+        // Show the 5 options with nice formatting
+    
+    
+    // ========== READ USER CHOICE ==========
+    
+        // Try to convert input to a number
+        // Handle invalid input gracefully
+    
+    
+    // ========== ADD FRUIT ==========
+    
+        // Section header
+        
+        // Get name from user
+        // Validate name length
+        
+        // Get price from user
+        // Handle non-numeric input
+        // Validate price is not negative
+        
+        // Get stock from user
+        // Handle non-numeric input
+        // Validate stock is not negative
+        
+        // Create fruit with all collected data
+        // Add to collection
+        // Update ID counter
+        // Confirm success
+    
+    
+    // ========== LIST FRUITS ==========
+    
+        // Section header
+        
+        // Check if there's anything to show
+        
+        // Display table headers
+        
+        // Loop through and display each fruit in formatted columns
+        
+        // Show total count
+    
+    
+    // ========== EXPORT TO FILE ==========
+    
+        // Section header
+        
+        // Check if there's anything to export
+        
+        // Open file for writing with UTF-8
+            // Write each fruit in the correct format
+            // Close file properly
+            // Confirm success with details
+        // Handle file errors
+    
+    
+    // ========== IMPORT FROM FILE ==========
+    
+        // Section header
+        
+        // Check if file exists first
+        
+        // Open file for reading with UTF-8
+            // Clear current data
+            // Reset ID counter
+            
+            // Track line numbers and success/error counts
+            
+            // Process each line
+                // Skip empty lines
+                // Split line into parts
+                // Validate format (correct number of parts)
+                
+                // Try to parse the data
+                    // Extract and convert each field
+                    // Validate the data
+                    // Create fruit object
+                    // Add to collection
+                    // Update ID counter if needed
+                    // Count success
+                // Handle parsing errors
+            
+            // Close file properly
+            // Show results summary
+        // Handle file errors
+    
+    
+    // ========== HELPER: ENSURE DATA FOLDER EXISTS ==========
+    
+        // Create folder if it doesn't exist yet
+
+}
+
